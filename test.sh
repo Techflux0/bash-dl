@@ -70,7 +70,6 @@ success_symbol = "[➜](bold green)"
 error_symbol = "[✗](bold red)"
 EOF
 
-
 echo ""
 echo "=============================="
 echo "   Downloader Menu"
