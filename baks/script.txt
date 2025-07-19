@@ -2,7 +2,6 @@ From telegram
 
 Hex codes 32 and 64 bit
 
-
 int 32 bit :
 -1 = 0000E0E31EFF2FE1
 -2 = 0100E0E31EFF2FE
